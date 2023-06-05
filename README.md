@@ -1,17 +1,6 @@
 # Water woes in the Bronx
 For this project, I analysed water problems facing New Yorkers. Here is the [final published story](https://rentwirenyc.substack.com/p/water-woes-in-the-bronx)
 
-
-## Getting the Data
-
-* [Water-related complaints](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/data)
-* [Drinking Water Quality Distribution Monitoring Data](https://data.cityofnewyork.us/Environment/Drinking-Water-Quality-Distribution-Monitoring-Dat/bkwf-xfky)
-* [Total Population by community district](https://furmancenter.org/neighborhoods/)
-* [Borough Boundaries](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm)
-* [Income levels by community district](https://furmancenter.org/neighborhoods/)
-* [Demographic data by community district](https://furmancenter.org/neighborhoods/)
-
-
 ### How I analysed rates of water complaints by community district
 I collected number of complaints by community district for a period of 12 months and joined it to population data from the Furman Center. <br>
 I then normalised the data against population. <br/>
@@ -31,8 +20,17 @@ I then visualised the resulting distribution to show the disparities I found. <b
 I joined data on the portion of the population that is white by community district to the data on water problem complaints <br/>
 I then visualised the resulting distribution to show the disparities I found in terms of water problem complaints <br/>
 
+#### Getting the Data
 
-### Tech:
+* [Water-related complaints](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/data)
+* [Drinking Water Quality Distribution Monitoring Data](https://data.cityofnewyork.us/Environment/Drinking-Water-Quality-Distribution-Monitoring-Dat/bkwf-xfky)
+* [Total Population by community district](https://furmancenter.org/neighborhoods/)
+* [Borough Boundaries](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm)
+* [Income levels by community district](https://furmancenter.org/neighborhoods/)
+* [Demographic data by community district](https://furmancenter.org/neighborhoods/)
+
+## Tech:
 #Python, #MicrosoftExcel, #Datawrapper, #Mapping
 
 Again, you can read is [the final published story here](https://rentwirenyc.substack.com/p/water-woes-in-the-bronx)
+
