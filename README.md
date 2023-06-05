@@ -1,4 +1,4 @@
-# Water woes in the Bronx
+# [Water woes in the Bronx](https://rentwirenyc.substack.com/p/water-woes-in-the-bronx)
 For this project, I analysed water problems facing New Yorkers. Here is the [final published story](https://rentwirenyc.substack.com/p/water-woes-in-the-bronx)
 
 ### How I analysed rates of water complaints by community district
