@@ -32,5 +32,5 @@ I then visualised the resulting distribution to show the disparities I found in 
 ## Tech:
 #Python, #MicrosoftExcel, #Datawrapper, #Mapping
 
-Again, you can read is [the final published story here](https://rentwirenyc.substack.com/p/water-woes-in-the-bronx)
+Again, you can read [the final published story here](https://rentwirenyc.substack.com/p/water-woes-in-the-bronx)
 
